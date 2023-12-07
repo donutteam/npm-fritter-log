@@ -18,8 +18,10 @@
 	"author": "Donut Team",
 	"license": "MIT",
 	"type": "module",
+	"peerDependencies": {
+		"@fritter/core": "0.x"
+	},
 	"devDependencies": {
-		"@fritter/core": "^0.1.9",
 		"rimraf": "^5.0.5",
 		"typescript": "^5.2.2"
 	}

@@ -1,6 +1,7 @@
 ## 1.0.3
 
 * Removed eslint packages and config.
+* Moved `@fritter/core` to peer dependencies.
 
 ## 1.0.2
 Updating packages.
