@@ -1,3 +1,6 @@
+## 1.0.4
+Moved the IP address to be first in the logs and removed the "From " before it.
+
 ## 1.0.3
 
 * Removed eslint packages and config.

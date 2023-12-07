@@ -37,9 +37,9 @@ export class FritterLogMiddleware
 			const components =
 				[
 					"Request " + this.requestNumber,
+					context.fritterRequest.getIp(),
 					context.fritterRequest.getHttpMethod(),
 					context.fritterRequest.getPath(),
-					"From " + context.fritterRequest.getIp(),
 				];
 
 			//
