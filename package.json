@@ -19,9 +19,7 @@
 	"license": "MIT",
 	"type": "module",
 	"devDependencies": {
-		"@donutteam/eslint-config": "^3.0.0",
 		"@fritter/core": "^0.1.9",
-		"eslint": "^8.52.0",
 		"rimraf": "^5.0.5",
 		"typescript": "^5.2.2"
 	}
