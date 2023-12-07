@@ -2,6 +2,7 @@
 
 * Removed eslint packages and config.
 * Moved `@fritter/core` to peer dependencies.
+* Updated all other packages.
 
 ## 1.0.2
 Updating packages.
